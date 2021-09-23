@@ -31,7 +31,7 @@
 </script>
 
 <svelte:head>
-	<title>{!activeTab[1] ? 'Home' : activeTab[1].toUpperCase() + activeTab.slice(2)} | League Page</title>
+	<title>{!activeTab[1] ? 'Home' : activeTab[1].toUpperCase() + activeTab.slice(2)} | VTFFL</title>
 </svelte:head>
 
 <style>
